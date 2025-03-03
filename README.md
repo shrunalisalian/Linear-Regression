@@ -113,14 +113,6 @@ plt.show()
 
 ---
 
-## 🎯 **Why This Project Stands Out for ML & Data Science Roles**  
-✔ **Covers Essential Regression Techniques** for predictive modeling  
-✔ **Compares 10 different models** for better decision-making  
-✔ **Emphasizes Model Optimization & Feature Engineering**  
-✔ **Demonstrates Data Visualization & Interpretability**  
-
----
-
 ## 🛠 **How to Run This Project**  
 1️⃣ Clone the repo:  
    ```bash
