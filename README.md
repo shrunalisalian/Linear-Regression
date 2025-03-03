@@ -1,9 +1,8 @@
 ### 📈 **Mastering Regression: A Deep Dive into Machine Learning Algorithms**  
-
-## 🚀 **Project Overview**  
+ 
 Regression is the backbone of **predictive analytics** and a critical skill for **data science and machine learning roles**. This project explores **multiple regression algorithms**, comparing their performance across various datasets to **understand predictive modeling, feature selection, and model evaluation.**  
 
-By implementing **both simple and advanced regression techniques**, this project showcases proficiency in **data preprocessing, model training, hyperparameter tuning, and visualization of regression results**.
+By implementing both simple and advanced regression techniques, this project showcases proficiency in data preprocessing, model training, hyperparameter tuning, and visualization of regression results.
 ---
 
 **Skills:** Supervised Learning, Regression Models, Feature Engineering, Model Evaluation  
